@@ -35,6 +35,10 @@ footer{
     margin: 4px;
 }
 
+#genre-0{
+    background-color: white;
+}
+
 #genre-1{
     background-color: blue;
 }
@@ -61,7 +65,7 @@ footer{
     background-color: blue;
 }
 
-.spp{
+.bk{
     background-color: red;
 }
 
